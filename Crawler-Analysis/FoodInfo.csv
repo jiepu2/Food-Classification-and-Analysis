@@ -1,0 +1,102 @@
+Name ,Health Score,Original Nation,Protein(g),Fat(g),carbohydrates(g),Carlore(kj),Sodium(mg),Category
+apple_pie,0.4,Western_Country,2.4,13.6,34,1070,264,0
+baby_back_ribs,0.4,America,23,20,5,1213,610,1
+baklava,0.1,Middle east,5,20,60,1360,275,0
+beef_carpaccio,0.9,Italy,22.1,7.1,0,667.5,57.5,1
+beef_tartare,0.7,France,17.8,14.56,0,880,120,0
+beet_salad,0.7,Italy,1.6,3,11,334,0,0
+beignets,0.6,France,3,8,21,669,270,1
+bibimbap,0.5,Korea,7.5,6.5,50,850,400,1
+bread_pudding,0.4,England,6,11,22,1758,105,0
+breakfast_burrito,0.4,Mexico,11.3,9.9,22.5,850,457.75,1
+bruschetta,0.4,Italy,0,9.7,6.5,480,274.2,0
+caesar_salad,0.8,Italy,6.4,7.6,7,510,420.6,0
+cannoli,0.3,Italy,8,5,44,1050,65,1
+caprese_salad,0.7,Italy,3.8,10,3.8,416,176,0
+carrot_cake,0.7,France,5,9.8,80,1800,568,0
+ceviche,0.8,Spain,22,3,2,600,350,1
+cheesecake,0.3,Greece,8,30,74,2469,306,0
+cheese_plate,0.3,Italy,19.8,17.2,1.4,980,1580,0
+chicken_curry,0.6,India,5.8,3.2,17.4,540,266,0
+chicken_quesadilla,0.6,Mexico,6,8,9,544,250,1
+chicken_wings,0.7,United States,20.4,17.4,0,925,83.7,0
+chocolate_cake,0.4,Netherlands,6,15.6,73,1790,825,0
+chocolate_mousse,0.4,France,4.2,16,16,938,38,0
+churros,0.3,Spain,10,33,46,2250,540,0
+clam_chowder,0.6,England,6,2.8,16,230,417,0
+club_sandwich,0.3,United States,5.05,1.2,12.1,323,196.35,1
+crab_cakes,0.1,United States,14.4,35.6,50,2418,0,0
+creme_brulee,0.2,France,7.2,36.4,34.6,2134,90,0
+croque_madame,0.1,France,20.1,27.15,13.75,1598.5,1005.3,1
+cup_cakes,0.3,United States,8,43.2,102.4,3482,464,0
+deviled_eggs,0.6,Italy,19.2,32,6.4,1874,449,0
+donuts,0.3,United States,6,34,88,2846,680,0
+dumplings,0.3,China,7.15,5.95,23.8,749,452,1
+edamame,1,Japan,13,5.8,8.2,544,0,0
+eggs_benedict,0.1,United States,12.5,13.5,10,1250,500,1
+escargots,0.9,France,20,2,2,418,300,0
+falafel,0.5,United States,5.45,10.9,16.35,759.5,363.5,1
+filet_mignon,0.6,France,10,10,0.05,558.5,63.55,1
+fish_and_chips,0.4,England,3.95,6.95,13.4,562.5,254.6,1
+foie_gras,0.2,France,11,44,4.7,3866,1394,0
+french_fries,0.2,England,12,36,140,3816,1884,0
+french_onion_soup,0.8,France,3,1.4,6.6,92,423,0
+french_toast,0.4,France,15.4,21.6,50,1916,958,0
+fried_calamari,0.7,Japan,20,4,18,728,486,0
+fried_rice,0.4,China,2.35,1.15,15.5,682,396,1
+frozen_yogurt,0.4,Middle east,4,4,40,836,130,0
+garlic_bread,0.5,France,3,8,15,628,250,0
+gnocchi,0.5,Italy,3.8,0.3,33.6,628,250,1
+greek_salad,0.7,Greece,1.6,0,11.2,96,283,0
+grilled_cheese_sandwich,0.1,England,6.6,13.65,11.55,809.5,271.65,1
+Grilled Salmon,0.8,Norway,22,11,0,854,295,1
+guacamole,0.8,Mexico,3.1,14.1,9.4,653,750,0
+gyoza,0.2,Japan,12.7,17.6,48.7,1683,835,1
+hamburger,0.3,America,17,14,24,1231,414,1
+hot_and_sour_soup,0.6,China,2.6,1.2,4.4,159,376,0
+hot_dog,0.2,Germany,10,26,4.2,1210,1090,1
+huevos_rancheros,0.5,Mexico,7.6,12.1,7,687,426.5,1
+hummus,0.7,Egypt,8,10,14,695,379,1
+ice_cream,0.4,France,3.5,11,24,867,80,0
+lasagna,0.6,Italy,7,4.9,15,561,373,1
+lobster_bisque,0.4,France,3.1,13.7,7.1,682,339.2,1
+lobster_roll_sandwich,0.6,America,12.3,14.4,13.2,977,386.7,1
+macaroni_and_cheese,0.5,Italy,3.7,4.4,16.2,523,609.9,1
+macarons,0.1,France,6,20.3,51.9,1740,340,0
+miso_soup,0.6,Japan,0.9,0.5,1.6,62,277,0
+mussels,0.8,Europe,18.8,3.1,4.1,503,553,1
+nachos,0.2,Mexico,8,17,32,1277,722,1
+omelette,0.7,France,11,12,0.6,641,155,1
+onion_rings,0.2,America,3.9,25,44,1717,776,0
+oysters,0.8,France,12,2.4,0.6,303,310,1
+pad_thai,0.4,Thailand,9.7,11.3,16.4,873,610,1
+paella,0.6,Spain,4.9,5,17,565,300,1
+pancakes,0.4,Britain,6,10,28,950,439,0
+panna_cotta,0.3,Italy,2,17.3,25.3,1117,40,0
+peking_duck,0.6,China,15.9,14.9,6.1,925,380,1
+pho,0.7,Vietnam,5,2,18,465,193,1
+pizza,0.3,Italy,11,10,33,1114,598,1
+pork_chop,0.8,America,24,14,0,963,74,1
+poutine,0.3,Canada,5.8,12.4,22.1,939,757.6,1
+prime_rib,0.7,America,17.7,22.1,0,916,57.5,1
+pulled_pork_sandwich,0.4,America,13,4.4,19,699,666,1
+ramen,0.1,Japan,10,16,63,1825,2036,1
+ravioli,0.6,Italy,2.5,1.5,14,322,306,1
+red_velvet_cake,0.1,America,3.1,21.9,56.3,1766,312.5,0
+risotto,0.2,Italy,9.6,9.6,57,1432,96.5,1
+samosa,0.3,India,9,17,45,1394,813,1
+sashimi,0.9,Japan,22.6,5.4,0,610,38.9,1
+scallops,0.8,Japan,21,0.8,5,465,667,1
+seaweed_salad,0.5,Japan,2.7,4,20.4,481,778.8,0
+shrimp_and_grits,0.1,America,21.2,20.4,22,1524,1919.2,1
+spaghetti_bolognese,0.6,Italy,3.5,2,16.1,410,254.9,1
+spaghetti_carbonara,0.6,Italy,7.8,8.4,15.3,709,0.2,1
+spring_rolls,0.8,Vietnam,16,8,4.3,641,452,0
+steak,0.7,America,25,19,0,1130,58,1
+strawberry_shortcake,0.3,Britain,6,14,49,1449,506,0
+sushi,0.6,Japan,5,2,25,628,0,1
+tacos,0.5,Mexico,9,13,20,946,397,1
+takoyaki,0.6,Japan,17,6,11,724,710,0
+tiramisu,0.1,Italy,7,32,48,2135,75,0
+tuna_tartare,0.7,Japan,13,15,3,800,640,1
+waffles,0.3,Belgium,8,14,33,1218,511,0
