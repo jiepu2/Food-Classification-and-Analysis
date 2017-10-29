@@ -1,14 +1,14 @@
 # Requirements
 
 Python	(Anaconda)	3.6.1
-anaconda 		1.2.2
-h5py			2.6.0
-matplotlib		1.5.3
-numpy			1.11.1
-requests		2.11.1
-scikit-image		0.12.3
-tensorflow		1.2
-urllib3			1.22
+anaconda 		        1.2.2
+h5py			          2.6.0
+matplotlib		      1.5.3
+numpy			          1.11.1
+requests		        2.11.1
+scikit-image		    0.12.3
+tensorflow		      1.2
+urllib3			        1.22
 
 # Module Descriptions
 
