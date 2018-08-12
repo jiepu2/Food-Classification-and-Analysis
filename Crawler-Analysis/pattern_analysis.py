@@ -54,18 +54,18 @@ def suburb_statistics11():
     i = 0
 
     for item in filter_collection.find().limit(50000):
-        classification = item['pic_pred']  # 以食物预测为分类依据
-        location = item['pic_loc']  # 获取地点
-        suburb = get_suburb(location)  # 获取地点所在area
-        if suburb != 'None':  # 如果suburb不是空
-            if suburb in statistics.keys():  # 如果有了这个suburb
-                if classification in statistics[suburb].keys():  # 如果有了这个食物
-                    statistics[suburb][classification] += 1  # foodCount += 1
+        classification = item['pic_pred']  
+        location = item['pic_loc']  
+        suburb = get_suburb(location) 
+        if suburb != 'None':  
+            if suburb in statistics.keys():  
+                if classification in statistics[suburb].keys():  
+                    statistics[suburb][classification] += 1  
                 else:
-                    statistics[suburb][classification] = 1  # foodCount = 1
-            else:  # 如果这个suburb还没出现过
-                statistics[suburb] = {}  # 建一个新的
-                statistics[suburb][classification] = 1  # foodCount = 1
+                    statistics[suburb][classification] = 1  
+            else:  
+                statistics[suburb] = {}  
+                statistics[suburb][classification] = 1  
     writeStatisticCSV(statistics)
     return statistics
 
@@ -96,14 +96,14 @@ def suburb_statistics(timePoint):
             suburb = get_suburb(location)
             print(period)
             if period == timePoint and suburb != 'None':
-                if suburb in statistics.keys():  # 如果有了这个suburb
-                    if classification in statistics[suburb].keys():  # 如果有了这个食物
-                        statistics[suburb][classification] += 1  # foodCount += 1
+                if suburb in statistics.keys():  
+                    if classification in statistics[suburb].keys():  
+                        statistics[suburb][classification] += 1  
                     else:
-                        statistics[suburb][classification] = 1  # foodCount = 1
-                else:  # 如果这个suburb还没出现过
-                    statistics[suburb] = {}  # 建一个新的
-                    statistics[suburb][classification] = 1  # foodCount = 1
+                        statistics[suburb][classification] = 1 
+                else:  
+                    statistics[suburb] = {}  
+                    statistics[suburb][classification] = 1  
         print (i)
         i += 1
     return statistics
